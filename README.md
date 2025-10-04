@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I'm Theo 👋
+## Hi there, I'm Theo 👋
 
 Aspiring **Data Analyst / IT Generalist** with a Master’s in IT (AI & Data Intelligence). I’m building a hands-on portfolio and looking to **collaborate on real-world datasets and small projects** to sharpen my skills and deliver value.
 
