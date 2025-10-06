@@ -47,7 +47,7 @@ Aspiring **Data Analyst / IT Generalist** with a Master’s in IT (AI & Data Int
 
 ## 📫 Contact
 
-* Email: **[t.mahamontree@gmail.com](mailto:t.mahamontree@gmail.com)**
+* Email: **[2ndtemptheo@gmail.com](mailto:2ndtemptheo@gmail.com)**
 
 
 > If you’ve got feedback on my repos or want to suggest a mini-project, I’m all ears.
